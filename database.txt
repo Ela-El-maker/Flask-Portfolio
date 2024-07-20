@@ -1,0 +1,5 @@
+email,subject,message
+
+
+feloela101@gmail.com, dolores repellat i, It's time to become a modern and complete Python developer! Join a live online community of over 900,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Meta, + other top tech companies.
+username1@example.com, dolores repellat i, It's time to become a modern and complete Python developer! Join a live online community of over 900,000+ developers and a course taught by an industry expert that has actually worked both in Silicon Valley and Toronto. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Meta, + other top tech companies.
